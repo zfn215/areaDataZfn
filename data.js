@@ -9232,10 +9232,6 @@ const addres = [
               label: '西湖区',
             },
             {
-              value: '430783',
-              label: '西洞庭管理区',
-            },
-            {
               value: '430784',
               label: '暂无选择',
             },
