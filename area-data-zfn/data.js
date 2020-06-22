@@ -71,6 +71,10 @@ const addres = [
               value: '110119',
               label: '延庆区',
             },
+            {
+              value: '110120',
+              label: '暂不选择',
+            },
           ],
         },
       ],
@@ -146,6 +150,10 @@ const addres = [
             {
               value: '120119',
               label: '蓟州区',
+            },
+            {
+              value: '120120',
+              label: '暂不选择',
             },
           ],
         },
@@ -255,6 +263,10 @@ const addres = [
               value: '130184',
               label: '新乐市',
             },
+            {
+              value: '130185',
+              label: '暂不选择',
+            },
           ],
         },
         {
@@ -333,6 +345,10 @@ const addres = [
               value: '130284',
               label: '滦州市',
             },
+            {
+              value: '130285',
+              label: '暂不选择',
+            },
           ],
         },
         {
@@ -374,6 +390,10 @@ const addres = [
             {
               value: '130372',
               label: '北戴河新区',
+            },
+            {
+              value: '130373',
+              label: '暂不选择',
             },
           ],
         },
@@ -461,6 +481,10 @@ const addres = [
               value: '130481',
               label: '武安市',
             },
+            {
+              value: '130482',
+              label: '暂不选择',
+            },
           ],
         },
         {
@@ -546,6 +570,10 @@ const addres = [
             {
               value: '130582',
               label: '沙河市',
+            },
+            {
+              value: '130583',
+              label: '暂不选择',
             },
           ],
         },
@@ -657,6 +685,10 @@ const addres = [
               value: '130684',
               label: '高碑店市',
             },
+            {
+              value: '130685',
+              label: '暂不选择',
+            },
           ],
         },
         {
@@ -739,6 +771,10 @@ const addres = [
               value: '130773',
               label: '张家口市塞北管理区',
             },
+            {
+              value: '130774',
+              label: '暂不选择',
+            },
           ],
         },
         {
@@ -792,6 +828,10 @@ const addres = [
             {
               value: '130881',
               label: '平泉市',
+            },
+            {
+              value: '130882',
+              label: '暂不选择',
             },
           ],
         },
@@ -875,6 +915,10 @@ const addres = [
               value: '130984',
               label: '河间市',
             },
+            {
+              value: '130985',
+              label: '暂不选择',
+            },
           ],
         },
         {
@@ -924,6 +968,10 @@ const addres = [
             {
               value: '131082',
               label: '三河市',
+            },
+            {
+              value: '131083',
+              label: '暂不选择',
             },
           ],
         },
@@ -983,6 +1031,10 @@ const addres = [
               value: '131182',
               label: '深州市',
             },
+            {
+              value: '131183',
+              label: '暂不选择',
+            },
           ],
         },
       ],
@@ -1039,6 +1091,10 @@ const addres = [
               value: '140181',
               label: '古交市',
             },
+            {
+              value: '140182',
+              label: '暂不选择',
+            },
           ],
         },
         {
@@ -1089,6 +1145,10 @@ const addres = [
               value: '140271',
               label: '山西大同经济开发区',
             },
+            {
+              value: '140272',
+              label: '暂不选择',
+            },
           ],
         },
         {
@@ -1114,6 +1174,10 @@ const addres = [
             {
               value: '140322',
               label: '盂县',
+            },
+            {
+              value: '140323',
+              label: '暂不选择',
             },
           ],
         },
@@ -1173,6 +1237,10 @@ const addres = [
               value: '140471',
               label: '山西长治高新技术产业园区',
             },
+            {
+              value: '140472',
+              label: '暂不选择',
+            },
           ],
         },
         {
@@ -1202,6 +1270,10 @@ const addres = [
             {
               value: '140581',
               label: '高平市',
+            },
+            {
+              value: '140582',
+              label: '暂不选择',
             },
           ],
         },
@@ -1236,6 +1308,10 @@ const addres = [
             {
               value: '140681',
               label: '怀仁市',
+            },
+            {
+              value: '140682',
+              label: '暂不选择',
             },
           ],
         },
@@ -1286,6 +1362,10 @@ const addres = [
             {
               value: '140781',
               label: '介休市',
+            },
+            {
+              value: '140782',
+              label: '暂不选择',
             },
           ],
         },
@@ -1344,6 +1424,10 @@ const addres = [
             {
               value: '140882',
               label: '河津市',
+            },
+            {
+              value: '140883',
+              label: '暂不选择',
             },
           ],
         },
@@ -1410,6 +1494,10 @@ const addres = [
             {
               value: '140981',
               label: '原平市',
+            },
+            {
+              value: '140982',
+              label: '暂不选择',
             },
           ],
         },
@@ -1485,6 +1573,10 @@ const addres = [
               value: '141082',
               label: '霍州市',
             },
+            {
+              value: '141083',
+              label: '暂不选择',
+            },
           ],
         },
         {
@@ -1543,6 +1635,10 @@ const addres = [
               value: '141182',
               label: '汾阳市',
             },
+            {
+              value: '141183',
+              label: '暂不选择',
+            },
           ],
         },
       ],
@@ -1599,6 +1695,10 @@ const addres = [
               value: '150172',
               label: '呼和浩特经济技术开发区',
             },
+            {
+              value: '150173',
+              label: '暂不选择',
+            },
           ],
         },
         {
@@ -1645,6 +1745,10 @@ const addres = [
               value: '150271',
               label: '包头稀土高新技术产业开发区',
             },
+            {
+              value: '150272',
+              label: '暂不选择',
+            },
           ],
         },
         {
@@ -1662,6 +1766,10 @@ const addres = [
             {
               value: '150304',
               label: '乌达区',
+            },
+            {
+              value: '150305',
+              label: '暂不选择',
             },
           ],
         },
@@ -1717,6 +1825,10 @@ const addres = [
               value: '150430',
               label: '敖汉旗',
             },
+            {
+              value: '150431',
+              label: '暂不选择',
+            },
           ],
         },
         {
@@ -1759,6 +1871,10 @@ const addres = [
               value: '150581',
               label: '霍林郭勒市',
             },
+            {
+              value: '150582',
+              label: '暂不选择',
+            },
           ],
         },
         {
@@ -1800,6 +1916,10 @@ const addres = [
             {
               value: '150627',
               label: '伊金霍洛旗',
+            },
+            {
+              value: '150628',
+              label: '暂不选择',
             },
           ],
         },
@@ -1863,6 +1983,10 @@ const addres = [
               value: '150785',
               label: '根河市',
             },
+            {
+              value: '150786',
+              label: '暂不选择',
+            },
           ],
         },
         {
@@ -1896,6 +2020,10 @@ const addres = [
             {
               value: '150826',
               label: '杭锦后旗',
+            },
+            {
+              value: '150827',
+              label: '暂不选择',
             },
           ],
         },
@@ -1947,6 +2075,10 @@ const addres = [
               value: '150981',
               label: '丰镇市',
             },
+            {
+              value: '150982',
+              label: '暂不选择',
+            },
           ],
         },
         {
@@ -1976,6 +2108,10 @@ const addres = [
             {
               value: '152224',
               label: '突泉县',
+            },
+            {
+              value: '152225',
+              label: '暂不选择',
             },
           ],
         },
@@ -2035,6 +2171,10 @@ const addres = [
               value: '152571',
               label: '乌拉盖管委会',
             },
+            {
+              value: '152572',
+              label: '暂不选择',
+            },
           ],
         },
         {
@@ -2056,6 +2196,10 @@ const addres = [
             {
               value: '152971',
               label: '内蒙古阿拉善经济开发区',
+            },
+            {
+              value: '152972',
+              label: '暂不选择',
             },
           ],
         },
@@ -2121,6 +2265,14 @@ const addres = [
               value: '210181',
               label: '新民市',
             },
+            {
+              value: '210182',
+              label: '沈阳经济技术开发区',
+            },
+            {
+              value: '210183',
+              label: '暂不选择',
+            },
           ],
         },
         {
@@ -2167,6 +2319,18 @@ const addres = [
               value: '210283',
               label: '庄河市',
             },
+            {
+              value: '210284',
+              label: '大连经济技术开发区',
+            },
+            {
+              value: '210285',
+              label: '大连高新技术产业园区',
+            },
+            {
+              value: '210286',
+              label: '暂不选择',
+            },
           ],
         },
         {
@@ -2200,6 +2364,14 @@ const addres = [
             {
               value: '210381',
               label: '海城市',
+            },
+            {
+              value: '210382',
+              label: '鞍山高新技术产业园区',
+            },
+            {
+              value: '210383',
+              label: '暂不选择',
             },
           ],
         },
@@ -2235,6 +2407,10 @@ const addres = [
               value: '210423',
               label: '清原满族自治县',
             },
+            {
+              value: '210424',
+              label: '暂不选择',
+            },
           ],
         },
         {
@@ -2264,6 +2440,10 @@ const addres = [
             {
               value: '210522',
               label: '桓仁满族自治县',
+            },
+            {
+              value: '210523',
+              label: '暂不选择',
             },
           ],
         },
